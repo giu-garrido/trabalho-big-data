@@ -1,7 +1,7 @@
-product_category,desconto_medio,preco_desc_medio,qtd_media
-Beauty,13.37,218.68,3.0
-Books,13.34,218.74,3.01
-Electronics,13.26,218.84,2.99
-Fashion,13.36,218.64,3.0
-Home & Kitchen,13.31,220.47,3.0
-Sports,13.41,217.96,2.99
+product_category,total_vendas,desconto_medio,preco_desc_medio,qtd_media
+Beauty,8107,13.38,218.78,3.01
+Books,7989,13.34,218.86,3.01
+Electronics,7972,13.3,218.94,2.99
+Fashion,8019,13.31,218.91,3.01
+Home & Kitchen,7914,13.29,220.33,2.99
+Sports,7936,13.38,218.24,3.0
